@@ -9,6 +9,11 @@
 - Docker Support
 - Clean Architecture Structure
 
+## 🏗 Architecture
+![Architecture](chat.png)
+
+![Architecture](docs/semantic.png)
+
 ## Run
 
 1. Copy `.env.example` → `.env`
