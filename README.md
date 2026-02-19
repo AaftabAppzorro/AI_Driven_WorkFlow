@@ -10,9 +10,9 @@
 - Clean Architecture Structure
 
 ## 🏗 Architecture
-![Architecture1](chat.png)
+![Architecture](docs/chat.png)
 
-![Architecture2](docs/semantic.png)
+![Architecture](docs/semantic.png)
 
 ## Run
 
