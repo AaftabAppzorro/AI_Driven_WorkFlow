@@ -1,3 +1,4 @@
+
 # AI-Driven Workflow Automation Engine (Production)
 
 ## Features
@@ -8,12 +9,6 @@
 - Docker Support
 - Clean Architecture Structure
 
-## 🏗 Architecture
-![Architecture](semantic.png)
-
-## Pictorial Representation
-![Sample](docs/chat.png)
-
 ## Run
 
 1. Copy `.env.example` → `.env`
@@ -22,4 +17,4 @@
    docker-compose up --build
 
 Swagger:
-http://localhost:60003333/swagger
+http://localhost:6000/swagger
